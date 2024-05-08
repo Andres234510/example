@@ -1,0 +1,5 @@
+Nombre: andres
+
+ Edad: 17
+
+ Color favorito: na
